@@ -1,6 +1,7 @@
 A command line video downloader for hqpornero.com
 
 İnstallation:
+
 ```git clone https://github.com/covrc/hqpornero-downloader```
 
 ```cd hqpornero-downloader ; pip install -r requirements.txt```
@@ -20,6 +21,7 @@ In windows
 Download firefox from https://www.firefox.com/
 
 You ***may*** need geckodriver, before installing geckodriver, try to run code with only firefox installed
+
 In linux download ```geckodriver``` package with your distro's package manager if it is needed.
 
 In windows
